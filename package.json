@@ -1,0 +1,22 @@
+{
+  "name": "c214l1-designpattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaromfcunha-inatel/c214l1-designpattern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvaromfcunha-inatel/c214l1-designpattern/issues"
+  },
+  "homepage": "https://github.com/alvaromfcunha-inatel/c214l1-designpattern#readme"
+}
